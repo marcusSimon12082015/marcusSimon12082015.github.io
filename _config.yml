@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: My Final Ruby Project
 header-img: img/home-bg.png
 email: marcussimon12082015@hotmail.com
 copyright_name: marcusSimon12082015
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Scraping, Scraping
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  marcusSimon12082015
