@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails App with jQuery Comic Review Corner enhanced"
-date:       2019-06-23 19:51:24 +0000
+date:       2019-06-23 15:51:25 -0400
 permalink:  rails_app_with_jquery_comic_review_corner_enhanced
 ---
 
