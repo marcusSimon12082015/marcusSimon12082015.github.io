@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Redux Project "
-date:       2020-03-23 15:40:40 +0000
+date:       2020-03-23 11:40:41 -0400
 permalink:  react_redux_project
 ---
 
@@ -136,10 +136,12 @@ class SignUpPage extends React.Component {
     this.props.cleanRegistrationMessages();
   }
 ...
+```
+
 
 For flash messages a new component called FlashMessage was created that displays messages to the user based on 
 server's responses.
 
 This was a challenging project and I learned a lot. In the future I intend to add new functionalities to the project as I gain 
 a deeper understanding of React and Redux best practices.
-```
+
