@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Promises, Async Await"
-date:       2020-03-25 16:58:02 +0000
+date:       2020-03-25 12:58:03 -0400
 permalink:  promises_async_await
 ---
 
@@ -95,5 +95,6 @@ Promise.all([promise1,promise2]);
 ```
 
 
+Of course this is just a starting point. Now it is time to use this in a project.
 
 
